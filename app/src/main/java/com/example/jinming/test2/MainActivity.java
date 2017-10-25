@@ -52,4 +52,9 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onContextItemSelected(item);
     }
+    public void justCheck() {
+        int i = 0;
+        int ii = 10;
+        int iii = i + ii;
+    }
 }
