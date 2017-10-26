@@ -5,4 +5,8 @@ package com.example.jinming.test2;
  */
 
 public class TestAddFile {
+    private void test() {
+        int i = 0;
+        int j = i + 10;
+    }
 }
