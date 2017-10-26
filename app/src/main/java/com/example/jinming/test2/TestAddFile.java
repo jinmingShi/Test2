@@ -10,5 +10,7 @@ public class TestAddFile {
         int j = i + 10;
         j = j * 10;
         j = i + j;
+        j = j - 10;
+        int m = 100;
     }
 }
